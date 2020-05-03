@@ -1,0 +1,1 @@
+{"version":3,"sources":["H:/mateprojects/react_list-of-goods/src/App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,GACE,oBAAqB,CACrB,SACF,CAEA,OACE,UACF","file":"main.670ed1d6.chunk.css","sourcesContent":["body {\n  text-align: center;\n}\n\nul {\n  list-style-type: none;\n  padding: 0;\n}\n\nbutton {\n  margin: 5px;\n}\n"]}
